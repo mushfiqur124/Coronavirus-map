@@ -31,6 +31,6 @@ print(canada)
 
   
 ###
-#canada.plot(); 
-#plt.show()
+canada.plot(); 
+plt.show()
 
